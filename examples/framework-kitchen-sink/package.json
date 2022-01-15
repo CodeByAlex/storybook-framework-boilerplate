@@ -26,6 +26,6 @@
     "@storybook/addon-storysource": "6.0.0-alpha.2",
     "@storybook/addon-viewport": "6.0.0-alpha.2",
     "chalk": "^3.0.0",
-    "shelljs": "^0.8.3"
+    "shelljs": "^0.8.5"
   }
 }
